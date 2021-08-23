@@ -65,7 +65,7 @@ main {
 }
 
 #banner_one, #banner_two, #banner_three {
-    background-image: url('images/bg1.jpeg');
+    background-image: url('Images/bg1.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -106,7 +106,7 @@ main {
 }
 
 #banner_two, #banner_three {
-    background-image: url('images/bg2.jpeg');
+    background-image: url('Images/bg2.jpeg');
     background-position-y: 10px;
     margin-top:0px;
     padding-top: 50px;
@@ -123,7 +123,7 @@ main {
 
 
 #banner_three {
-    background-image: url('images/bg3.jpeg');
+    background-image: url('Images/bg3.jpeg');
     background-position-y: 10px;
 
 }
@@ -157,7 +157,7 @@ main {
 }
 
 #box1 {
-    background-image: url('images/card_1.jpeg');
+    background-image: url('Images/card_1.jpeg');
 font-size: 25px;
 margin-left: 10px;
 margin-right:10px;
@@ -175,7 +175,7 @@ margin-top: 10px;
 }
 
 #box2 {
-    background-image: url('images/card_2.jpeg');
+    background-image: url('Images/card_2.jpeg');
     color: black;
     margin-right: 10px;
     margin-top: 10px;
@@ -205,7 +205,7 @@ margin-top: 10px;
 
 
 #box3 {
-    background-image: url('images/card_3.jpeg');
+    background-image: url('Images/card_3.jpeg');
     margin-left: 10px;
 margin-right:10px;
 }
@@ -225,7 +225,7 @@ margin-right:10px;
 
 
 #box4 {
-    background-image: url('images/card_4.jpeg');
+    background-image: url('Images/card_4.jpeg');
 
     color: black;
     margin-right: 10px;
@@ -254,7 +254,7 @@ margin-right:10px;
 }
 
 #box5 {
-    background-image: url('images/card_5.jpeg');
+    background-image: url('Images/card_5.jpeg');
 
     color: white;
     margin-left: 10px;
@@ -288,7 +288,7 @@ margin-right:10px;
 }
 
 #box6 {
-    background-image: url('images/card_6.jpeg');
+    background-image: url('Images/card_6.jpeg');
 
   
     margin-right: 10px;
