@@ -65,7 +65,7 @@ main {
 }
 
 #banner_one, #banner_two, #banner_three {
-    background-image: url('Images/bg1.jpeg');
+    background-image: url('https://github.com/SaheliThakur/AppleClone.github.io/blob/master/Images/bg1.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
